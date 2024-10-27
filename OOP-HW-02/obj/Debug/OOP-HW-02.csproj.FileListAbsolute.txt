@@ -1,0 +1,7 @@
+D:\OOP-HW-02\OOP-HW-02\bin\Debug\OOP-HW-02.exe.config
+D:\OOP-HW-02\OOP-HW-02\bin\Debug\OOP-HW-02.exe
+D:\OOP-HW-02\OOP-HW-02\bin\Debug\OOP-HW-02.pdb
+D:\OOP-HW-02\OOP-HW-02\obj\Debug\OOP-HW-02.csproj.AssemblyReference.cache
+D:\OOP-HW-02\OOP-HW-02\obj\Debug\OOP-HW-02.csproj.CoreCompileInputs.cache
+D:\OOP-HW-02\OOP-HW-02\obj\Debug\OOP-HW-02.exe
+D:\OOP-HW-02\OOP-HW-02\obj\Debug\OOP-HW-02.pdb
